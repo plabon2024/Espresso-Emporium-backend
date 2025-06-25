@@ -26,7 +26,7 @@ This is a simple RESTful API server built with **Express.js** and **MongoDB Atla
 ## 📁 Project Structure
 
 ```
-server.js         → Main server file
+index.js         → Main server file
 .env              → Environment variables
 ```
 
@@ -79,7 +79,7 @@ Create a `.env` file and add your MongoDB credentials.
 ### 4. Run the server
 
 ```bash
-node server.js
+node index.js
 ```
 
 The server will start at `http://localhost:3000`.
